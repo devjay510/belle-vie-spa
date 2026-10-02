@@ -383,7 +383,7 @@ textarea:focus-visible,
     align-items: end;
     background:
         linear-gradient(105deg, rgba(65, 105, 225, 0.88) 0%, rgba(65, 105, 225, 0.58) 44%, rgba(47, 85, 199, 0.32) 100%),
-        var(--hero-image, url("images/hero-nails.jpg")) center/cover;
+        var(--hero-image, url("images/Heroimage.jpg")) center/cover;
 }
 
 .hero-overlay {
